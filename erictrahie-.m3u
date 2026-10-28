@@ -69,3 +69,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
 
 #EXTINF:-1 tvg-id="BalafonTV eric.cm@SD" tvg-logo="https://i.imgur.com/EqOzhYw.png" group-title="News",Balafon TV [Geo-blocked]
 https://broadcasting-channels.com:9044/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="BenieTV eric.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="Religious",Benie TV (720p)
+https://tv.voozmedia.fun/benietv/index.m3u8

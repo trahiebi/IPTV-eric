@@ -153,3 +153,5 @@ http://69.64.57.208/rts1/playlist.m3u8
 http://69.64.57.208/tvt/playlist.m3u8
 #EXTINF:-1,nci
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/5571652/e/1_2gnrfyb6/tl/main/st/0/t/_2ISZf1pGSI6I6i-fhncIg/index-s32.m3u8
+#EXTINF:-1,rt1
+https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_l7esl2lg/tl/main/st/0/t/JieoF9DSnFqH7Zx2NNCOQA/index-s43.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX2w3ZXNsMmxnL3RsL21haW4vc3QvMC90L0ppZW9GOURTbkZxSDdaeDJOTkNPUUEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5MzY5NH19fV19&Signature=UthNxJPG1n2QEcLpVUJ4xsemNztWPArLeV8fyhCqbPDuAWhAlwhqsFi35yYu6PJpcIXqBUTOxHOdrn7BBzuhvtvBSo7OhTHxr1RX4JfTYvuJnCeeIMzZNTVbLjneb8GPNDSBXwq0AZUyQuHdAE9LfZibuM3gY15Piy5-F~j0-QaP8xmBQ~JNhDRdSGJJERY~a8eYp860VW9kVKIvT9laJFXyepSBXw7uPe890BXfcvPiYm-8andBjHfX2eOxWQFPDbdTDLyG-i08lM-UkgIlgiILonH4Paz1loo8GJVwRYUllcuXxloTYMcwm2MRAFuQB7TOXqXsfMboOVsgJouWqg__&Key-Pair-Id=K31ANTJBLNVBEC

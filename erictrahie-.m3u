@@ -99,3 +99,6 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ChandelTV eric.tg@SD" tvg-logo="https://i.imgur.com/jQO7dVE.png" group-title="Entertainment",Chandel TV (720p)
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
+
+#EXTINF:-1 tvg-id="Cine666byPlutoTV eric.de@FR" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="Movies",Cine 666 by Pluto TV
+https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8

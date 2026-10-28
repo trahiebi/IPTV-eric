@@ -93,3 +93,6 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Carac4 eric.ch@SD" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="Entertainment",Carac 4 (1080p)
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carac5 eric.ch@SD" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="Entertainment",Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8

@@ -27,3 +27,6 @@ https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_i50dd97e/t
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_vobpak2o/tl/main/st/0/t/c23fDheRd2LhdvqFRipw7A/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX3ZvYnBhazJvL3RsL21haW4vc3QvMC90L2MyM2ZEaGVSZDJMaGR2cUZSaXB3N0EvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5NTUzMX19fV19&Signature=DQCPqf6Z47z0dSnvypFw~5-UxJCp2hHPd9lIPWwkAPx~SQlWSc44~j1pLp-mQyiGhJo3sK7LfQUloi9ykCtTq7MKrjKlx3CaJ~dPQY9R2TFTQQHJKkNC4V6TGXGIW~7NhmDGlcnGE3LdowQhcbAHqgrGWpguYfonngXH2NnFeb-Mn~~gb0mcto7Wy-1xSk6onV0lMQx9FLZnuipUOFl26o~fxcoRDg533xtK7l37EUtYGP84szygvXdk3QCmk1mPUMnxjTkQ9cnRPFBQFysHQB0c9ONhkM-JySmv7cY~gbYiedUyScJy1GCuJswCP~qsO7rUM4wVEsbynzk4S8SuBg__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 tvg-id="6ter eric.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter
 http://149.62.177.107:9999/6ter/index.m3u8
+
+#EXTINF:-1 tvg-id="7Info eric.ci@SD" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="News",7 Info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8

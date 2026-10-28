@@ -50,3 +50,6 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 #EXTINF:-1 tvg-id="AfricanewsFrench eric.fr@SD" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews French (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-id="AfrikInfoTV eric.gn@SD" tvg-logo="https://i.imgur.com/hz2LOD8.jpeg" group-title="News",Afrik Info TV
+https://kali.vdopanel.com:3119/hybrid/play.m3u8

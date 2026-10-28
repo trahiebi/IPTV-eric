@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1,africa24
+#EXTINF:-1,AFRICA 24 eric
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1,bfm
+#EXTINF:-1,BFM TV eric
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1,dbmtv
+#EXTINF:-1,DBM TV eric
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1,france24
+#EXTINF:-1,FRANCE 24 eric
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1,rtfrance
+#EXTINF:-1,RT FRANCE eric
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1,tracesport
+#EXTINF:-1,TRACE SPORT eric
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,ETV
+#EXTINF:-1,ETV eric
 https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
-#EXTINF:-1,PLEX TV ERIC
+#EXTINF:-1,PLEX TV eric
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
-#EXTINF:-1,RTVC ERIC
+#EXTINF:-1,RTVC eric
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
-#EXTINF:-1,NCI ERIC
+#EXTINF:-1,NCI eric
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/5571652/e/1_2gnrfyb6/tl/main/st/0/t/_2ISZf1pGSI6I6i-fhncIg/index-s32.m3u8
-#EXTINF:-1,RTI1 ERIC
+#EXTINF:-1,RTI1 eric
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_l7esl2lg/tl/main/st/0/t/JieoF9DSnFqH7Zx2NNCOQA/index-s43.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX2w3ZXNsMmxnL3RsL21haW4vc3QvMC90L0ppZW9GOURTbkZxSDdaeDJOTkNPUUEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5MzY5NH19fV19&Signature=UthNxJPG1n2QEcLpVUJ4xsemNztWPArLeV8fyhCqbPDuAWhAlwhqsFi35yYu6PJpcIXqBUTOxHOdrn7BBzuhvtvBSo7OhTHxr1RX4JfTYvuJnCeeIMzZNTVbLjneb8GPNDSBXwq0AZUyQuHdAE9LfZibuM3gY15Piy5-F~j0-QaP8xmBQ~JNhDRdSGJJERY~a8eYp860VW9kVKIvT9laJFXyepSBXw7uPe890BXfcvPiYm-8andBjHfX2eOxWQFPDbdTDLyG-i08lM-UkgIlgiILonH4Paz1loo8GJVwRYUllcuXxloTYMcwm2MRAFuQB7TOXqXsfMboOVsgJouWqg__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1,RTI2 ERIC
+#EXTINF:-1,RTI2 eric
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_i50dd97e/tl/main/st/0/t/SpU4S8-9iqsGABcd4s43LA/index-s44.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX2k1MGRkOTdlL3RsL21haW4vc3QvMC90L1NwVTRTOC05aXFzR0FCY2Q0czQzTEEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5NDg5NH19fV19&Signature=QgKgdsHdGto6DuOnd905yb2k2qY1g0c8d4u7mimFTyP2mkpwckV94Mcz3u80bmgI2DfSnExgL5UYhsZlvBYzcILu-Sm8DzS6AOFP8KpdWvKDcQsvk8pKKoEsovIXmr~P4E4VaLqjYBSrSJA8hYKZ~ba9Tj3QU69Ui4Zc0h63j5epyeKBSI7qAqS7V2vKhnQCKDwGNU5icVDyilroQpxjRlq4r0TacVcZWyxLA-aAZjh~s4nHaZpMduBH1nX6AtoLPs6~JuPxluTm8mDR5VNx6ZQSgdTNnLy20iWWXU-42uFXomVa53RDanSHwgacrbWjehWaIsMm2F0k2IX5Y8IqZw__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1,RTI3 ERIC
+#EXTINF:-1,RTI3 eric
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_vobpak2o/tl/main/st/0/t/c23fDheRd2LhdvqFRipw7A/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX3ZvYnBhazJvL3RsL21haW4vc3QvMC90L2MyM2ZEaGVSZDJMaGR2cUZSaXB3N0EvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5NTUzMX19fV19&Signature=DQCPqf6Z47z0dSnvypFw~5-UxJCp2hHPd9lIPWwkAPx~SQlWSc44~j1pLp-mQyiGhJo3sK7LfQUloi9ykCtTq7MKrjKlx3CaJ~dPQY9R2TFTQQHJKkNC4V6TGXGIW~7NhmDGlcnGE3LdowQhcbAHqgrGWpguYfonngXH2NnFeb-Mn~~gb0mcto7Wy-1xSk6onV0lMQx9FLZnuipUOFl26o~fxcoRDg533xtK7l37EUtYGP84szygvXdk3QCmk1mPUMnxjTkQ9cnRPFBQFysHQB0c9ONhkM-JySmv7cY~gbYiedUyScJy1GCuJswCP~qsO7rUM4wVEsbynzk4S8SuBg__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 tvg-id="6ter eric.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter
 http://149.62.177.107:9999/6ter/index.m3u8

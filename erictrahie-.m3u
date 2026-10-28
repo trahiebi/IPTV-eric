@@ -72,3 +72,6 @@ https://broadcasting-channels.com:9044/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="BenieTV eric.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="Religious",Benie TV (720p)
 https://tv.voozmedia.fun/benietv/index.m3u8
+
+#EXTINF:-1 tvg-id="CStar eric.fr@SD" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Entertainment",C Star (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8

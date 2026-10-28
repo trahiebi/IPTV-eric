@@ -63,3 +63,6 @@ https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 
 #EXTINF:-1 tvg-id="AlerteaMalibu eric.us@France" tvg-logo="https://i.imgur.com/hBiB6uk.png" group-title="Series",Alerte a Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr@SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",arte (France) (720p)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8

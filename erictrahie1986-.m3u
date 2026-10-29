@@ -332,3 +332,5 @@ https://tvradiozap.eu/991
 https://tvradiozap.eu/992
 #EXTINF:-1 tvg-id="RTB.af" tvg-name="RTB3 (BF)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBFQ1mGQtCaVCE5JZnppYK1l1kKf3y2TiSgA" tvg-country="Burkina Faso" group-title="01. TNT-Top",RTB3 (BF)
 https://tvradiozap.eu/1315
+#EXTINF:-1 tvg-id="DigitalCongo.cd" tvg-name="B-Kids (CD)" tvg-logo="https://tnf-hd.com/uploads/tv_image/sm/b-kids.jpeg" tvg-country="Congo (CD)" group-title="01. TNT-Top",B-Kids (CD)
+https://tvradiozap.eu/1530

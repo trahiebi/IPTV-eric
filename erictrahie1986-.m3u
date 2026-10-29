@@ -370,3 +370,5 @@ https://tvradiozap.eu/953
 https://tvradiozap.eu/1089
 #EXTINF:-1 tvg-id="nexttv.ml" tvg-name="Next TV (ML)" tvg-logo="https://tvradiozap.eu/tv/logos/nexttv.jpg" tvg-country="Mali" group-title="11. Mali",Next TV (ML)
 https://tvradiozap.eu/1066
+#EXTINF:-1 tvg-id="Brut.fr" tvg-name="Brut" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brut_logo.svg/330px-Brut_logo.svg.png" tvg-country="France" group-title="09. Généraliste",Brut
+https://tvradiozap.eu/1501

@@ -350,3 +350,5 @@ https://tvradiozap.eu/1417
 https://tvradiozap.eu/1415
 #EXTINF:-1 tvg-id="" tvg-name="Antenne A (CD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Antenne_A.png" tvg-country="Congo (CD)" group-title="06. Congo (CD)",Antenne A (CD)
 https://tvradiozap.eu/1186
+#EXTINF:-1 tvg-id="" tvg-name="Baraka TV (CD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV89RrEXd7V2DeY_MK1ixd5aNjVrrlyF9Gzg&s" tvg-country="Congo (CD)" group-title="06. Congo (CD)",Baraka TV (CD)
+https://tvradiozap.eu/1438

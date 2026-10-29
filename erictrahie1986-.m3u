@@ -242,3 +242,5 @@ https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
 https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTeen.de@FR" tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png" group-title="Kids",Pluto TV Teen FR (720p)
 https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVToons.de@FR" tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" group-title="Kids",Pluto TV Toons FR (720p)
+https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8

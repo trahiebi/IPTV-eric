@@ -130,3 +130,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CRTVNews.cm@SD" tvg-logo="https://i.imgur.com/5CshVf9.png" group-title="News",CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" tvg-logo="https://i.imgur.com/DiIei9F.png" http-referrer="https://crtv.cm/live/crtv-sport" group-title="Sports",CRTV Sports and Entertainment SD (360p)
+#EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8

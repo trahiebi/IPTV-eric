@@ -330,3 +330,5 @@ https://tvradiozap.eu/949
 https://tvradiozap.eu/991
 #EXTINF:-1 tvg-id="Business24.ci" tvg-name="Business 24 (CI)" tvg-logo="https://www.business24tv.com/wp-content/uploads/2020/05/cropped-cropped-cropped-cropped-logo-1.jpeg" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",Business 24 (CI)
 https://tvradiozap.eu/992
+#EXTINF:-1 tvg-id="RTB.af" tvg-name="RTB3 (BF)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBFQ1mGQtCaVCE5JZnppYK1l1kKf3y2TiSgA" tvg-country="Burkina Faso" group-title="01. TNT-Top",RTB3 (BF)
+https://tvradiozap.eu/1315

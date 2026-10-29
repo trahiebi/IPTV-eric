@@ -346,3 +346,5 @@ https://tvradiozap.eu/1265
 https://tvradiozap.eu/999
 #EXTINF:-1 tvg-id="" tvg-name="A54 (CM)" tvg-logo="https://afrique54.net/wp-content/uploads/2024/06/cropped-LOGO-POUR-NAVIGATEUR-300x300.png" tvg-country="Cameroun" group-title="04. Cameroun",A54 (CM)
 https://tvradiozap.eu/1417
+#EXTINF:-1 tvg-id="" tvg-name="TR24 (CM)" tvg-logo="https://telepack.net/wp-content/uploads/2022/11/tr24-telepack.jpg" tvg-country="Cameroun" group-title="04. Cameroun",TR24 (CM)
+https://tvradiozap.eu/1415

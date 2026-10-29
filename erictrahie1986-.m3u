@@ -372,3 +372,5 @@ https://tvradiozap.eu/1089
 https://tvradiozap.eu/1066
 #EXTINF:-1 tvg-id="Brut.fr" tvg-name="Brut" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brut_logo.svg/330px-Brut_logo.svg.png" tvg-country="France" group-title="09. Généraliste",Brut
 https://tvradiozap.eu/1501
+#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" tvg-country="France" group-title="11. Jeunesse",Cartoonito
+https://tvradiozap.eu/1391

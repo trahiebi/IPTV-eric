@@ -364,3 +364,5 @@ https://tvradiozap.eu/1033
 https://tvradiozap.eu/931
 #EXTINF:-1 tvg-id="BF1.bf" tvg-name="BF1 (BF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_bf1.png/330px-Logo_bf1.png" tvg-country="Burkina Faso" group-title="03. Burkina Faso",BF1 (BF)
 https://tvradiozap.eu/998
+#EXTINF:-1 tvg-id="" tvg-name="Etélé (BJ)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQdKdMhGKX6p_xBcWVtVhz5ov9-vMT8nPHngTvNHQ=s176-c-k-c0x00ffffff-no-rj" tvg-country="Bénin" group-title="02. Bénin",Etélé (BJ)
+https://tvradiozap.eu/953

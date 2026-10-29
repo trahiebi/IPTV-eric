@@ -334,3 +334,5 @@ https://tvradiozap.eu/992
 https://tvradiozap.eu/1315
 #EXTINF:-1 tvg-id="DigitalCongo.cd" tvg-name="B-Kids (CD)" tvg-logo="https://tnf-hd.com/uploads/tv_image/sm/b-kids.jpeg" tvg-country="Congo (CD)" group-title="01. TNT-Top",B-Kids (CD)
 https://tvradiozap.eu/1530
+#EXTINF:-1 tvg-id="VoxAfrica.af" tvg-name="VoxAfrica (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Voxafrica-1.png" tvg-country="Panafrique" group-title="01. TNT-Top",VoxAfrica (UK)
+https://tvradiozap.eu/1006

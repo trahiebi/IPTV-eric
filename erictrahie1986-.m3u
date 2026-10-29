@@ -328,3 +328,5 @@ https://tvradiozap.eu/1112
 https://tvradiozap.eu/949
 #EXTINF:-1 tvg-id="7Info.ci" tvg-name="7Info (CI)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqV4FaSfXqTOFRdnTz6_OOIB1dj5YYnnJb2UOs70rkQ" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",7Info (CI)
 https://tvradiozap.eu/991
+#EXTINF:-1 tvg-id="Business24.ci" tvg-name="Business 24 (CI)" tvg-logo="https://www.business24tv.com/wp-content/uploads/2020/05/cropped-cropped-cropped-cropped-logo-1.jpeg" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",Business 24 (CI)
+https://tvradiozap.eu/992

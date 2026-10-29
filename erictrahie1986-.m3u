@@ -274,3 +274,5 @@ https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 http://149.62.177.107:9999/TMC/index.m3u8
 #EXTINF:-1 tvg-id="ToutlemondedetesteChris.de@FR" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" group-title="Series",Tout le monde deteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+#EXTINF:-1 tvg-id="TraceAfrica.fr@SD" tvg-logo="https://i.imgur.com/kPUkoS7.png" group-title="Music",Trace Africa (1080p)
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8

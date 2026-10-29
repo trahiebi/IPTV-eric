@@ -216,3 +216,5 @@ https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="News",Medi1TV Afrique (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci@SD" tvg-logo="https://i.imgur.com/AQ60OYO.png" group-title="Religious",Miracle TV+ (720p)
+https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8

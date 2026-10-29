@@ -1,104 +1,102 @@
 #EXTM3U
-#EXTINF:-1,AFRICA 24 eric
+#EXTINF:-1,AFRICA24 
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1,BFM TV eric
+#EXTINF:-1,BFMTV 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1,DBM TV eric
+#EXTINF:-1,DBMTV 
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1,FRANCE 24 eric
+#EXTINF:-1,FRANCE24 
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1,RT FRANCE eric
+#EXTINF:-1,RT FRANCE 
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1,TRACE SPORT eric
+#EXTINF:-1,TRACE SPORT 
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,ETV eric
+#EXTINF:-1,ETV 
 https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
-#EXTINF:-1,PLEX TV eric
+#EXTINF:-1,PLEX TV 
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
-#EXTINF:-1,RTVC eric
+#EXTINF:-1,RTVC 
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
-#EXTINF:-1,NCI eric
+#EXTINF:-1,NCI 
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/5571652/e/1_2gnrfyb6/tl/main/st/0/t/_2ISZf1pGSI6I6i-fhncIg/index-s32.m3u8
-#EXTINF:-1,RTI1 eric
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_l7esl2lg/tl/main/st/0/t/JieoF9DSnFqH7Zx2NNCOQA/index-s43.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX2w3ZXNsMmxnL3RsL21haW4vc3QvMC90L0ppZW9GOURTbkZxSDdaeDJOTkNPUUEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5MzY5NH19fV19&Signature=UthNxJPG1n2QEcLpVUJ4xsemNztWPArLeV8fyhCqbPDuAWhAlwhqsFi35yYu6PJpcIXqBUTOxHOdrn7BBzuhvtvBSo7OhTHxr1RX4JfTYvuJnCeeIMzZNTVbLjneb8GPNDSBXwq0AZUyQuHdAE9LfZibuM3gY15Piy5-F~j0-QaP8xmBQ~JNhDRdSGJJERY~a8eYp860VW9kVKIvT9laJFXyepSBXw7uPe890BXfcvPiYm-8andBjHfX2eOxWQFPDbdTDLyG-i08lM-UkgIlgiILonH4Paz1loo8GJVwRYUllcuXxloTYMcwm2MRAFuQB7TOXqXsfMboOVsgJouWqg__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1,RTI2 eric
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_i50dd97e/tl/main/st/0/t/SpU4S8-9iqsGABcd4s43LA/index-s44.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX2k1MGRkOTdlL3RsL21haW4vc3QvMC90L1NwVTRTOC05aXFzR0FCY2Q0czQzTEEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5NDg5NH19fV19&Signature=QgKgdsHdGto6DuOnd905yb2k2qY1g0c8d4u7mimFTyP2mkpwckV94Mcz3u80bmgI2DfSnExgL5UYhsZlvBYzcILu-Sm8DzS6AOFP8KpdWvKDcQsvk8pKKoEsovIXmr~P4E4VaLqjYBSrSJA8hYKZ~ba9Tj3QU69Ui4Zc0h63j5epyeKBSI7qAqS7V2vKhnQCKDwGNU5icVDyilroQpxjRlq4r0TacVcZWyxLA-aAZjh~s4nHaZpMduBH1nX6AtoLPs6~JuPxluTm8mDR5VNx6ZQSgdTNnLy20iWWXU-42uFXomVa53RDanSHwgacrbWjehWaIsMm2F0k2IX5Y8IqZw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1,RTI3 eric
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_vobpak2o/tl/main/st/0/t/c23fDheRd2LhdvqFRipw7A/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX3ZvYnBhazJvL3RsL21haW4vc3QvMC90L2MyM2ZEaGVSZDJMaGR2cUZSaXB3N0EvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5NTUzMX19fV19&Signature=DQCPqf6Z47z0dSnvypFw~5-UxJCp2hHPd9lIPWwkAPx~SQlWSc44~j1pLp-mQyiGhJo3sK7LfQUloi9ykCtTq7MKrjKlx3CaJ~dPQY9R2TFTQQHJKkNC4V6TGXGIW~7NhmDGlcnGE3LdowQhcbAHqgrGWpguYfonngXH2NnFeb-Mn~~gb0mcto7Wy-1xSk6onV0lMQx9FLZnuipUOFl26o~fxcoRDg533xtK7l37EUtYGP84szygvXdk3QCmk1mPUMnxjTkQ9cnRPFBQFysHQB0c9ONhkM-JySmv7cY~gbYiedUyScJy1GCuJswCP~qsO7rUM4wVEsbynzk4S8SuBg__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1 tvg-id="6ter eric.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter
+#EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter
 http://149.62.177.107:9999/6ter/index.m3u8
 
-#EXTINF:-1 tvg-id="7Info eric.ci@SD" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="News",7 Info
+#EXTINF:-1 tvg-id="7Info.ci@SD" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="News",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iNaija.sn@SD" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" group-title="Education",A2i Naija (720p) [Not 24/7]
 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
-#EXTINF:-1 tvg-id="ACTV eric.be@SD" tvg-logo="https://files.catbox.moe/8v2y8m.png" group-title="General",ACTV (Belgium) (504p)
-#EXTINF:-1,RTBF eric
+#EXTINF:-1 tvg-id="ACTV.be@SD" tvg-logo="https://files.catbox.moe/8v2y8m.png" group-title="General",ACTV (Belgium) (504p)
+#EXTINF:-1,RTBF 
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 
-#EXTINF:-1 tvg-id="ADNTVPlus eric.fr@SD" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Animation",ADN TV+ (720p)
+#EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Animation",ADN TV+ (720p)
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
-#EXTINF:-1 tvg-id="ADOTV eric.bj@SD" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Kids;Sports",ADO TV (720p)
+#EXTINF:-1 tvg-id="ADOTV.bj@SD" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Kids;Sports",ADO TV (720p)
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Africa24Sport eric.fr@SD" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="News;Sports",Africa 24 Sport (1080p)
+#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="News;Sports",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AfricanewsFrench eric.fr@SD" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews French (720p)
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews French (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
-#EXTINF:-1 tvg-id="AfrikInfoTV eric.gn@SD" tvg-logo="https://i.imgur.com/hz2LOD8.jpeg" group-title="News",Afrik Info TV
+#EXTINF:-1 tvg-id="AfrikInfoTV.gn@SD" tvg-logo="https://i.imgur.com/hz2LOD8.jpeg" group-title="News",Afrik Info TV
 https://kali.vdopanel.com:3119/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="AfriqueMedia eric.cm@SD" tvg-logo="https://i.imgur.com/spQgX7X.png" http-referrer="https://odysee.com" group-title="News",Afrique Media (720p)
+#EXTINF:-1 tvg-id="AfriqueMedia.cm@SD" tvg-logo="https://i.imgur.com/spQgX7X.png" http-referrer="https://odysee.com" group-title="News",Afrique Media (720p)
 #EXTVLCOPT:http-referrer=https://odysee.com
 https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
 
-#EXTINF:-1 tvg-id="AfrocultureTV eric.ci@SD" tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture",Afroculture TV
+#EXTINF:-1 tvg-id="AfrocultureTV.ci@SD" tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture",Afroculture TV
 https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 
-#EXTINF:-1 tvg-id="AlerteaMalibu eric.us@France" tvg-logo="https://i.imgur.com/hBiB6uk.png" group-title="Series",Alerte a Malibu
+#EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-logo="https://i.imgur.com/hBiB6uk.png" group-title="Series",Alerte a Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
 
 #EXTINF:-1 tvg-id="arte.fr@SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",arte (France) (720p)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
 
-#EXTINF:-1 tvg-id="BalafonTV eric.cm@SD" tvg-logo="https://i.imgur.com/EqOzhYw.png" group-title="News",Balafon TV [Geo-blocked]
+#EXTINF:-1 tvg-id="BalafonTV.cm@SD" tvg-logo="https://i.imgur.com/EqOzhYw.png" group-title="News",Balafon TV [Geo-blocked]
 https://broadcasting-channels.com:9044/hls/test.m3u8
 
-#EXTINF:-1 tvg-id="BenieTV eric.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="Religious",Benie TV (720p)
+#EXTINF:-1 tvg-id="BenieTV.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="Religious",Benie TV (720p)
 https://tv.voozmedia.fun/benietv/index.m3u8
 
-#EXTINF:-1 tvg-id="CStar eric.fr@SD" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Entertainment",C Star (477p)
+#EXTINF:-1 tvg-id="CStar.fr@SD" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Entertainment",C Star (477p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 
-#EXTINF:-1 tvg-id="Caillou eric.fr@SD" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Undefined",Caillou
+#EXTINF:-1 tvg-id="Caillou.fr@SD" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Undefined",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 
-#EXTINF:-1 tvg-id="Canaf54TV eric.uk@SD" tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="General",Canaf54 TV
+#EXTINF:-1 tvg-id="Canaf54TV.uk@SD" tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="General",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Carac1 eric.ch@SD" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="Entertainment",Carac 1 (1080p)
+#EXTINF:-1 tvg-id="Carac1.ch@SD" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="Entertainment",Carac 1 (1080p)
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Carac2 eric.ch@SD" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="Entertainment",Carac 2 (1080p)
+#EXTINF:-1 tvg-id="Carac2.ch@SD" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="Entertainment",Carac 2 (1080p)
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Carac3 eric.ch@SD" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="Entertainment",Carac 3 (1080p)
+#EXTINF:-1 tvg-id="Carac3.ch@SD" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="Entertainment",Carac 3 (1080p)
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Carac4 eric.ch@SD" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="Entertainment",Carac 4 (1080p)
+#EXTINF:-1 tvg-id="Carac4.ch@SD" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="Entertainment",Carac 4 (1080p)
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Carac5 eric.ch@SD" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="Entertainment",Carac 5
+#EXTINF:-1 tvg-id="Carac5.ch@SD" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="Entertainment",Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ChandelTV eric.tg@SD" tvg-logo="https://i.imgur.com/jQO7dVE.png" group-title="Entertainment",Chandel TV (720p)
+#EXTINF:-1 tvg-id="ChandelTV.tg@SD" tvg-logo="https://i.imgur.com/jQO7dVE.png" group-title="Entertainment",Chandel TV (720p)
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 
-#EXTINF:-1 tvg-id="Cine666byPlutoTV eric.de@FR" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="Movies",Cine 666 by Pluto TV
+#EXTINF:-1 tvg-id="Cine666byPlutoTV.de@FR" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="Movies",Cine 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8

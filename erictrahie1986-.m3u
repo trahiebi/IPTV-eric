@@ -348,3 +348,5 @@ https://tvradiozap.eu/999
 https://tvradiozap.eu/1417
 #EXTINF:-1 tvg-id="" tvg-name="TR24 (CM)" tvg-logo="https://telepack.net/wp-content/uploads/2022/11/tr24-telepack.jpg" tvg-country="Cameroun" group-title="04. Cameroun",TR24 (CM)
 https://tvradiozap.eu/1415
+#EXTINF:-1 tvg-id="" tvg-name="Antenne A (CD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Antenne_A.png" tvg-country="Congo (CD)" group-title="06. Congo (CD)",Antenne A (CD)
+https://tvradiozap.eu/1186

@@ -278,3 +278,5 @@ https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceAfrikora.fr@SD" tvg-logo="https://i.imgur.com/CQDdnhp.png" group-title="Music",Trace Afrikora (1080p)
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceAyiti.fr@SD" tvg-logo="https://i.imgur.com/KkJ6fet.png" group-title="Music",Trace Ayiti (1080p)
+https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8

@@ -318,3 +318,5 @@ http://5.180.164.197:8080/TV5MONDE/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TVCBenin.bj@SD" tvg-logo="https://i.imgur.com/oUnEYl5.png" group-title="General",TVC Benin (720p)
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 (1086p)
+http://5.180.164.197:8080/W9/index.m3u8

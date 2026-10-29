@@ -362,3 +362,5 @@ https://tvradiozap.eu/946
 https://tvradiozap.eu/1033
 #EXTINF:-1 tvg-id="" tvg-name="Star+Novelas (CG)" tvg-logo="https://tvradiozap.eu/tv/logos/starnovelas.jpeg" tvg-country="Congo (CG)" group-title="07. Congo (CG)",Star+Novelas (CG)
 https://tvradiozap.eu/931
+#EXTINF:-1 tvg-id="BF1.bf" tvg-name="BF1 (BF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_bf1.png/330px-Logo_bf1.png" tvg-country="Burkina Faso" group-title="03. Burkina Faso",BF1 (BF)
+https://tvradiozap.eu/998

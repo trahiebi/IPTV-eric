@@ -344,3 +344,5 @@ https://tvradiozap.eu/1430
 https://tvradiozap.eu/1265
 #EXTINF:-1 tvg-id="CTVAfrique.cm" tvg-name="CTV Afrique (CM)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mgWthNMZyU0LlqkziTT2DBO15sVmEOwOQIYSPa=s176-c-k-c0x00ffffff-no-rj" tvg-country="Cameroun" group-title="04. Cameroun",CTV Afrique (CM)
 https://tvradiozap.eu/999
+#EXTINF:-1 tvg-id="" tvg-name="A54 (CM)" tvg-logo="https://afrique54.net/wp-content/uploads/2024/06/cropped-LOGO-POUR-NAVIGATEUR-300x300.png" tvg-country="Cameroun" group-title="04. Cameroun",A54 (CM)
+https://tvradiozap.eu/1417

@@ -356,3 +356,5 @@ https://tvradiozap.eu/1438
 https://tvradiozap.eu/1086
 #EXTINF:-1 tvg-id="" tvg-name="KMK TV (CD)" tvg-logo="https://afreesat.berosat.live/hcgi/platform/api/files/pbc_7991542277/n70ep06gxbe4gdk/kmk_6w1nizc2fy.jpg" tvg-country="Congo (CD)" group-title="06. Congo (CD)",KMK TV (CD)
 https://tvradiozap.eu/1537
+#EXTINF:-1 tvg-id="" tvg-name="EàDTV (CG)" tvg-logo="https://tvradiozap.eu/tv/logos/eadtv.jpg" tvg-country="Congo (CG)" group-title="07. Congo (CG)",EàDTV (CG)
+https://tvradiozap.eu/946

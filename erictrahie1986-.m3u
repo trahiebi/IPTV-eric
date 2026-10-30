@@ -394,3 +394,6 @@ https://tvradiozap.eu/492
 https://tvradiozap.eu/1332
 #EXTINF:-1 tvg-id="ADOTV.bj@SD",ADO TV (720p)
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTBTV.bj@HD",ORTB TV (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8

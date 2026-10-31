@@ -458,5 +458,5 @@ http://178.124.179.122:8080/Setanta1/index.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="PFLMMA.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Sports",PFL MMA (720p)
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
-#EXTINF:-1 tvg-id="PGATour.us@SD" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",PGA Tour (1080p)
-https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PKSports.pk@SD" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Sports",PK Sports (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8

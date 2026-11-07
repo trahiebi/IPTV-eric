@@ -19,10 +19,6 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 #EXTINF:-1,NCI 
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/5571652/e/1_2gnrfyb6/tl/main/st/0/t/_2ISZf1pGSI6I6i-fhncIg/index-s32.m3u8
-#EXTINF:-1,RTI2 eric
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_i50dd97e/tl/main/st/0/t/SpU4S8-9iqsGABcd4s43LA/index-s44.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX2k1MGRkOTdlL3RsL21haW4vc3QvMC90L1NwVTRTOC05aXFzR0FCY2Q0czQzTEEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5NDg5NH19fV19&Signature=QgKgdsHdGto6DuOnd905yb2k2qY1g0c8d4u7mimFTyP2mkpwckV94Mcz3u80bmgI2DfSnExgL5UYhsZlvBYzcILu-Sm8DzS6AOFP8KpdWvKDcQsvk8pKKoEsovIXmr~P4E4VaLqjYBSrSJA8hYKZ~ba9Tj3QU69Ui4Zc0h63j5epyeKBSI7qAqS7V2vKhnQCKDwGNU5icVDyilroQpxjRlq4r0TacVcZWyxLA-aAZjh~s4nHaZpMduBH1nX6AtoLPs6~JuPxluTm8mDR5VNx6ZQSgdTNnLy20iWWXU-42uFXomVa53RDanSHwgacrbWjehWaIsMm2F0k2IX5Y8IqZw__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1,RTI3 eric
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/6234172/e/1_vobpak2o/tl/main/st/0/t/c23fDheRd2LhdvqFRipw7A/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzYyMzQxNzIvZS8xX3ZvYnBhazJvL3RsL21haW4vc3QvMC90L2MyM2ZEaGVSZDJMaGR2cUZSaXB3N0EvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI5NTUzMX19fV19&Signature=DQCPqf6Z47z0dSnvypFw~5-UxJCp2hHPd9lIPWwkAPx~SQlWSc44~j1pLp-mQyiGhJo3sK7LfQUloi9ykCtTq7MKrjKlx3CaJ~dPQY9R2TFTQQHJKkNC4V6TGXGIW~7NhmDGlcnGE3LdowQhcbAHqgrGWpguYfonngXH2NnFeb-Mn~~gb0mcto7Wy-1xSk6onV0lMQx9FLZnuipUOFl26o~fxcoRDg533xtK7l37EUtYGP84szygvXdk3QCmk1mPUMnxjTkQ9cnRPFBQFysHQB0c9ONhkM-JySmv7cY~gbYiedUyScJy1GCuJswCP~qsO7rUM4wVEsbynzk4S8SuBg__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter
 http://149.62.177.107:9999/6ter/index.m3u8
 
@@ -526,3 +522,4 @@ http://181.78.12.119:16123/play/ch19/index.m3u8
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WWENetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png" group-title="Sports",WWE Network (1080p)
 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_l7esl2lg/protocol/https/format/applehttp/flavorIds/1_7eanbbls,1_i3eaoq67,1_9ncksqqs,1_0fu4ccss,1_vbi79hef,1_ots3qoji,1_elidpux4/a.m3u8?uiConfId=56536812&playSessionId=6c28e6f4-aee2-b688-0dbf-49f8d211afab:157876d3-2fda-50b5-b503-675e001e3d38&referrer=aHR0cHM6Ly9ydGlwbGF5LmNpL3J0aTEvZGlyZWN0&clientTag=html5:v7.285

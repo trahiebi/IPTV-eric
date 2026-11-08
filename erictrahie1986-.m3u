@@ -494,3 +494,5 @@ https://tvradiozap.eu/1117
 https://tvradiozap.eu/1311
 #EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1 (Bruxelles BE)" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" tvg-country="Belgique" group-title="08. Belgique",BX1 (Bruxelles BE)
 https://tvradiozap.eu/283
+#EXTINF:-1 tvg-id="tcm-tv.ca" tvg-name="TCM-TV   (CA)" tvg-logo="https://teleculturelle.com/wp-content/uploads/2024/01/tcm_logo_transparent-300x99.png" tvg-country="Canada" group-title="12. Canada",TCM-TV   (CA)
+https://tvradiozap.eu/149

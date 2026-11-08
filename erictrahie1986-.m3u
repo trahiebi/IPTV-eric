@@ -502,3 +502,5 @@ https://tvradiozap.eu/668
 https://tvradiozap.eu/998
 #EXTINF:-1 tvg-id="7Info.ci" tvg-name="7Info (CI)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqV4FaSfXqTOFRdnTz6_OOIB1dj5YYnnJb2UOs70rkQ" tvg-country="Côte d’Ivoire" group-title="19. Côte d’Ivoire",7Info (CI)
 https://tvradiozap.eu/991
+#EXTINF:-1 tvg-id="" tvg-name="Lollywood TV (CD)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/152015.v1.png" tvg-country="Congo (CD)" group-title="20. Congo (CD)",Lollywood TV (CD)
+https://tvradiozap.eu/1493

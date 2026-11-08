@@ -490,3 +490,5 @@ https://tvradiozap.eu/838
 https://tvradiozap.eu/1147
 #EXTINF:-1 tvg-id="FR:.Passion.Novelas.fr" tvg-name="Passion Novelas" tvg-logo="https://i.imgur.com/boo9jmf.png" tvg-country="France" group-title="02. France",Passion Novelas
 https://tvradiozap.eu/1117
+#EXTINF:-1 tvg-id="" tvg-name="Echos du monde" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=2&url=https://provider-static.plex.tv/epg/cms/production/12ed6042-d759-427f-8856-c4a8d1d56cb4/Echos_whiteRDX.png" tvg-country="France" group-title="02. France",Echos du monde
+https://tvradiozap.eu/1311

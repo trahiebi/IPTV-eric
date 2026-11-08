@@ -498,3 +498,5 @@ https://tvradiozap.eu/283
 https://tvradiozap.eu/149
 #EXTINF:-1 tvg-id="FR:.CGTN.fr" tvg-name="CGTN Français  (CN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_français.png/330px-CGTN_-_français.png" tvg-country="Chine" group-title="13. Chine",CGTN Français  (CN)
 https://tvradiozap.eu/668
+#EXTINF:-1 tvg-id="BF1.bf" tvg-name="BF1 (BF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_bf1.png/330px-Logo_bf1.png" tvg-country="Burkina Faso" group-title="17. Burkina Faso",BF1 (BF)
+https://tvradiozap.eu/998

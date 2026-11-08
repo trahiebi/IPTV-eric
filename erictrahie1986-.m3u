@@ -496,3 +496,5 @@ https://tvradiozap.eu/1311
 https://tvradiozap.eu/283
 #EXTINF:-1 tvg-id="tcm-tv.ca" tvg-name="TCM-TV   (CA)" tvg-logo="https://teleculturelle.com/wp-content/uploads/2024/01/tcm_logo_transparent-300x99.png" tvg-country="Canada" group-title="12. Canada",TCM-TV   (CA)
 https://tvradiozap.eu/149
+#EXTINF:-1 tvg-id="FR:.CGTN.fr" tvg-name="CGTN Français  (CN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_français.png/330px-CGTN_-_français.png" tvg-country="Chine" group-title="13. Chine",CGTN Français  (CN)
+https://tvradiozap.eu/668

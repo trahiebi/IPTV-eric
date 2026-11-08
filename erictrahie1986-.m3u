@@ -500,3 +500,5 @@ https://tvradiozap.eu/149
 https://tvradiozap.eu/668
 #EXTINF:-1 tvg-id="BF1.bf" tvg-name="BF1 (BF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_bf1.png/330px-Logo_bf1.png" tvg-country="Burkina Faso" group-title="17. Burkina Faso",BF1 (BF)
 https://tvradiozap.eu/998
+#EXTINF:-1 tvg-id="7Info.ci" tvg-name="7Info (CI)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqV4FaSfXqTOFRdnTz6_OOIB1dj5YYnnJb2UOs70rkQ" tvg-country="Côte d’Ivoire" group-title="19. Côte d’Ivoire",7Info (CI)
+https://tvradiozap.eu/991

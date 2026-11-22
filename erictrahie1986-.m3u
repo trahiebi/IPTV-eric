@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="RTI1.ci" tvg-name="RTI 1 (CI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_RTI_1.svg/330px-Logo_RTI_1.svg.png" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",RTI 1 (CI)
 https://tvradiozap.eu/949
 
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-name="RTI 2 (CI)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Logo_RTI2.svg/330px-Logo_RTI2.svg.png" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",RTI 2 (CI)
+https://tvradiozap.eu/950
 
-
-
-
-
+#EXTINF:-1 tvg-id="NCI.ci" tvg-name="NCI (CI)" tvg-logo="https://www.nci.ci/assets/images/logo_nci.png" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",NCI (CI)
+https://tvradiozap.eu/968
 
 #EXTINF:-1 tvg-id="" tvg-name="LifeTV (CI)" tvg-logo="https://www.lifetv.ci/wp-content/uploads/2023/07/logo.png" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",LifeTV (CI)
 https://tvradiozap.eu/1112
@@ -16,6 +16,9 @@ https://tv.voozmedia.fun/benietv/index.m3u8
 
 #EXTINF:-1 tvg-id="7Info.ci@SD" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="French",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Business24.ci" tvg-name="Business 24 (CI)" tvg-logo="https://www.business24tv.com/wp-content/uploads/2020/05/cropped-cropped-cropped-cropped-logo-1.jpeg" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",Business 24 (CI)
+https://tvradiozap.eu/992
 
 #EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="French",Ivoire Channel (720p)
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
@@ -37,11 +40,21 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-logo="https://i.imgur.com/oXuSkHz.png" group-title="French",RTVC (720p)
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CAM10 (CM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FYlU9wsbrUPi6BINiga8hTiLRli0xkibaA&s" tvg-country="Cameroun" group-title="04. Cameroun",CAM10 (CM)
+https://tvradiozap.eu/1265
+
+#EXTINF:-1 tvg-id="AfriqueMedia.cm@SD" tvg-logo="https://i.imgur.com/spQgX7X.png" http-referrer="https://odysee.com" group-title="News",Afrique Media (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com
+https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
+
 https://edge-06cd1.acan.group/crtv/tracks-v2a1/mono.m3u8?signature=eyJ1aWQiOiJmdGEiLCJzdHJlYW0iOiJjcnR2IiwidHlwIjoibWVkaWEiLCJpcGgiOiJJcGcyZ1BwajFBUXRwOTVqTzVnOUlwUVdaZkczTjZmMnJzQjFWUWxfX2dFIiwiZXhwIjoxNzk1MzU1MTc2LCJzaWQiOiJmdGE6Y3J0djo4YzBiNDE4NjkxNDVkOGUxMzFiOTBkYzY5ZTY5YzZjNCJ9.Q6ge8vPf-mHz5BkKAXVYCU7gLhGmkoBpBzJnIw0X8vE
 
 https://live1.acangroup.org:1929/publiclive/crtv_sport/chunks.m3u8?nimblesessionid=491965482&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiAxOjQzOjI2IFBNJmhhc2hfdmFsdWU9blIvb3FLWm9Ta29IWGJGUHZsRHZ5dz09JnZhbGlkbWludXRlcz0xMA==
 
 https://live1.acangroup.org:1929/publiclive/crtv_news/chunks.m3u8?nimblesessionid=491965613&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiAxOjQ0OjM4IFBNJmhhc2hfdmFsdWU9V3FIMzVlOVltLzJFZlcwRG9UTzY3QT09JnZhbGlkbWludXRlcz0xMA==
+
+#EXTINF:-1 tvg-id="" tvg-name="Plex (CM)" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" tvg-country="Cameroun" group-title="04. Cameroun",Plex (CM)
+https://tvradiozap.eu/1418
 
 #EXTINF:-1 tvg-id="CTVAfrique.cm" tvg-name="CTV Afrique (CM)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mgWthNMZyU0LlqkziTT2DBO15sVmEOwOQIYSPa=s176-c-k-c0x00ffffff-no-rj" tvg-country="Cameroun" group-title="04. Cameroun",CTV Afrique (CM)
 https://tvradiozap.eu/999
@@ -55,6 +68,9 @@ https://tvradiozap.eu/1424
 #EXTINF:-1 tvg-id="" tvg-name="Diaspora Séries (FR)" tvg-logo="https://www.zik-channel.com/wp-content/uploads/2020/12/313CFE1E-B809-436D-AF04-A83E091E9F2E-600x302.jpeg" tvg-country="Panafrique" group-title="01. TNT-Top",Diaspora Séries (FR)
 https://tvradiozap.eu/1430
 
+#EXTINF:-1 tvg-id="" tvg-name="Diaspora Story (FR)" tvg-logo="https://www.diaspora-story.com/wp-content/uploads/2025/03/cropped-LOGO-DIASPORA-STORY-SANS-FOND-1.png" tvg-country="Panafrique" group-title="01. TNT-Top",Diaspora Story (FR)
+https://tvradiozap.eu/1425
+
 #EXTINF:-1 tvg-id="FR:.Passion.Novelas.fr" tvg-name="Passion Bollywood" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/842x/filters:quality%28%7BimageQualityPercentage%7D%29/image/6875883e1b097/uploads/media/PASSION_BOLLYWOOD_640x480.png" tvg-country="France" group-title="18. Séries-Films",Passion Bollywood
 https://tvradiozap.eu/1326
 
@@ -66,4 +82,44 @@ https://tvradiozap.eu/1173
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee One" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6e44fbc4-7921-4fbc-b215-f90c74cf207e-width640-quality90.jpeg" tvg-country="France" group-title="18. Séries-Films",Zee One
 https://tvradiozap.eu/1249
+
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFM TV (1080p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="General",France 2 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr@National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" group-title="General",France 3 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="Kids",France 4 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General",France 5 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
+
+#EXTINF:-1,FRANCE24
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1795393792/ei/oDQDa93DDOSkq7YPuvimsQY/ip/158.148.212.38/id/a47ckXKZjxI.2/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uxaxpu5ap5-apoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/bui/AZFAFb96642eg01kXG_CuKRn-SeHd84r0lsua7AI_91SLngAFwRj1sQhYqP7laBBdrHiXeM6o0kq0Ygy/spc/nfZ8Zuhv5aHNHVJcAff4UlNxKPCl0H0e19MDfnAABYlKrV6TiVk-kHwNlxq7/vprv/1/reg/0/playlist_type/DVR/initcwndbps/490000/met/1795372193,/mh/Rk/mm/44/mn/sn-uxaxpu5ap5-apoe/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/22/rms/lva,lva/dover/13/pacing/0/epbp/1/short_key/1/keepalive/yes/fexp/51565115/mt/1795371652/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAK6jAgFVeoSAyF6HAknEJM_-E0ADjGvWtLFFnFpMhn4yAiEAx_epdwN9WGVZuUlmX6maK0VaYV_M7fUEXSrouFratZU%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgJ7BvH8-7JeWNEZwL5b4vw7pssSMFWo6EE3He8O1ZLLsCIC0aS0wnFktp0qpySG5KVofJqhvEvTTkJNes1uBeRddT/playlist/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BF1.bf" tvg-name="BF1 (BF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_bf1.png/330px-Logo_bf1.png" tvg-country="Burkina Faso" group-title="03. Burkina Faso",BF1 (BF)
+https://tvradiozap.eu/998
+
+#EXTINF:-1 tvg-id="Gabon24.af" tvg-name="Gabon 24 (GA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/LOGO-REGI-MULTIMEDIA-_copie.png" tvg-country="Gabon" group-title="01. TNT-Top",Gabon 24 (GA)
+https://tvradiozap.eu/951
+
+#EXTINF:-1 tvg-id="" tvg-name="Gabon Culture (GA)" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/842x/filters:quality(%7BimageQualityPercentage%7D)/image/68743b76f340d/uploads/media/GABON_CULTURE_640x480.png" tvg-country="Gabon" group-title="01. TNT-Top",Gabon Culture (GA)
+https://tvradiozap.eu/1428
+
+
+
+
+#EXTINF:-1 tvg-id="BStv.ci" tvg-name="NTV (CI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NtvLOGO.png/330px-NtvLOGO.png" tvg-country="Côte d’Ivoire" group-title="05. Côte d’Ivoire",NTV (CI)
+https://tvradiozap.eu/940
+
+
 

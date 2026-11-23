@@ -113,6 +113,9 @@ https://tvradiozap.eu/1425
 #EXTINF:-1 tvg-id="RTNBDivertissement.bi@SD" tvg-logo="https://i.imgur.com/vNCVLuO.png" group-title="Entertainment",RTNB Divertissement
 https://tv2-stream.rtnb.bi/hls/master.m3u8
 
+#EXTINF:-1 tvg-id="SpeedlineTV.bj@SD" tvg-logo="https://i.imgur.com/1lXShsh.png" group-title="General",Speedline TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+
 #EXTINF:-1 tvg-id="FR:.Passion.Novelas.fr" tvg-name="Passion Bollywood" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/842x/filters:quality%28%7BimageQualityPercentage%7D%29/image/6875883e1b097/uploads/media/PASSION_BOLLYWOOD_640x480.png" tvg-country="France" group-title="18. Séries-Films",Passion Bollywood
 https://tvradiozap.eu/1326
 
@@ -127,6 +130,9 @@ https://tvradiozap.eu/1249
 
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="Series",Frequence Novelas (1080p)
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBreizh.fr@SD" tvg-logo="https://i.imgur.com/O8W4yhn.png" group-title="Undefined",TV Breizh (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
@@ -378,7 +384,8 @@ https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de@FR" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="Movies",Cine Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 
-#EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="Movies",Cine+ Classic (1080p)
+#EXTINF:-1 tvg-id="ToutlemondedetesteChris.de@FR" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" group-title="Series",Tout le monde deteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8#EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="Movies",Cine+ Classic (1080p)
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027
 
 #EXTINF:-1 tvg-id="ComedyCentral.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (France) (720p)
@@ -411,6 +418,9 @@ https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm@SD" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Undefined",My TV Channel (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UshuaiaTV.fr@SD" tvg-logo="https://i.imgur.com/WjjlqbP.png" group-title="Undefined",Ushuaia TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PlutoTVCuisine.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" group-title="Cooking;Lifestyle",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
 
@@ -440,6 +450,9 @@ https://tvradiozap.eu/998
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Undefined",RMC Decouverte (1080p)
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
+#EXTINF:-1 tvg-id="ToutelHistoire.fr@SD" tvg-logo="https://i.imgur.com/xRfyQYn.png" group-title="Undefined",Toute l'Histoire (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Entertainment",Discovery Channel (France)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -478,6 +491,12 @@ https://tvradiozap.eu/1428
 #EXTINF:-1 tvg-id="RTB.bf@SD" tvg-logo="https://i.imgur.com/BFfLV0y.png" group-title="Undefined",RTB (360p) [Not 24/7]
 https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
 
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD" tvg-logo="https://i.imgur.com/vboq428.png" group-title="General",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleTchad.td@SD" tvg-logo="https://i.imgur.com/udSzfHD.png" group-title="General",Tele Tchad (1080p)
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Africa24.fr@SD" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="News",Africa 24 (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 
@@ -492,6 +511,9 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
 #EXTINF:-1 tvg-id="AfrikInfoTV.gn@SD" tvg-logo="https://i.imgur.com/hz2LOD8.jpeg" group-title="News",Afrik Info TV
 https://kali.vdopanel.com:3119/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="General",TV2 (Algeria) (1080p)
+http://185.9.2.18/chid_347/index.m3u8
 
 #EXTINF:-1 tvg-id="AfriqueMedia.cm@SD" tvg-logo="https://i.imgur.com/spQgX7X.png" http-referrer="https://odysee.com" group-title="News",Afrique Media (720p)
 #EXTVLCOPT:http-referrer=https://odysee.com
@@ -605,6 +627,9 @@ https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="PlayTV.cm@SD" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="Music",Play TV (Cameroon) (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TMA.gp@SD" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="Music",TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTINF:-1 tvg-id="EspaceTV.gn@SD" tvg-logo="https://i.imgur.com/R5tbzFI.png" group-title="News",Espace TV (1080p)
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8

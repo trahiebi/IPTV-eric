@@ -18,7 +18,7 @@ https://tv.voozmedia.fun/benietv/index.m3u8
 https://stream-hls.castr.net/6a294b5dedb8abc716a2ebf8/live_dc803c707b1411f18638734c8e2b001b/index.fmp4.m3u8
 
 #EXTINF:-1,GABON
-https://cdn.imnet.online/bcdn_token=HS256-1-wDO3E7EsLxTGW3u2buxCQAaGK-0-Rxv59yB72PZYT5g&token_ignore_params=true&token_path=%2Fapi%2Fchannel-hls%2Fgabon_1ere-54e2d65d%2F&expires=1795458000/api/channel-hls/gabon_1ere-54e2d65d/index.m3u8?impt=eyJ2IjoxLCJzaWQiOiI1NGUyZDY1ZC03NTBmLTRjMDYtODYzYi1hZGI5OGY1ZTI1MmQiLCJyb3V0ZSI6ImdhYm9uXzFlcmUtNTRlMmQ2NWQiLCJleHAiOjE3OTU0NTgwMDAwMDAsImZwIjoiMjQxYmE3NTM2YTk5NDAzNmI0OTk4NGVmMWVmYTBjZWZjYjU0OGIwNDc2YzI0MmY5MThjMjE2ZTFmMTNkZWIzMSIsImZwdiI6ImlwIiwic2NvcGUiOiJzdHJlYW0ifQ.QsljgHLxoSo3Iyi3l_baA995rS-ubRqQOgjSSadZ2Hg
+https://cdn.imnet.online/bcdn_token=HS256-1-qIp3uvhvDIo9Zw4FJrjlrEeywHyUBqvv3scIMQL8ekY&token_ignore_params=true&token_path=%2Fapi%2Fchannel-hls%2Fgabon_1ere-54e2d65d%2F&expires=1795458600/api/channel-hls/gabon_1ere-54e2d65d/index.m3u8?impt=eyJ2IjoxLCJzaWQiOiI1NGUyZDY1ZC03NTBmLTRjMDYtODYzYi1hZGI5OGY1ZTI1MmQiLCJyb3V0ZSI6ImdhYm9uXzFlcmUtNTRlMmQ2NWQiLCJleHAiOjE3OTU0NTg2MDAwMDAsImZwIjoiMjQxYmE3NTM2YTk5NDAzNmI0OTk4NGVmMWVmYTBjZWZjYjU0OGIwNDc2YzI0MmY5MThjMjE2ZTFmMTNkZWIzMSIsImZwdiI6ImlwIiwic2NvcGUiOiJzdHJlYW0ifQ.ET-14-sgCHUBJgX0aUhliOaRXypyHdDADKOMOuf6pwA
 
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-logo="https://i.imgur.com/0N64Ddn.png" group-title="Undefined",TV5Monde Africa (720p)
 http://5.9.121.178/tv5monde/index.m3u8

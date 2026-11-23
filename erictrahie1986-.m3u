@@ -57,8 +57,8 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
-#EXTINF:-1,GABON1
-https://cdn.imnet.online/bcdn_token=HS256-1-yyc2YYkGS8s5keLse63Ufv3nTWup8JSxuWJLBZS-RRY&token_ignore_params=true&token_path=%2Fapi%2Fchannel-hls%2Fgabon_1ere-54e2d65d%2F&expires=1795451100/api/channel-hls/gabon_1ere-54e2d65d/index.m3u8?impt=eyJ2IjoxLCJzaWQiOiI1NGUyZDY1ZC03NTBmLTRjMDYtODYzYi1hZGI5OGY1ZTI1MmQiLCJyb3V0ZSI6ImdhYm9uXzFlcmUtNTRlMmQ2NWQiLCJleHAiOjE3OTU0NTExMDAwMDAsImZwIjoiMjQxYmE3NTM2YTk5NDAzNmI0OTk4NGVmMWVmYTBjZWZjYjU0OGIwNDc2YzI0MmY5MThjMjE2ZTFmMTNkZWIzMSIsImZwdiI6ImlwIiwic2NvcGUiOiJzdHJlYW0ifQ.Ddm_0SUB85DOkhJqRHZyqHx-hmyvC4obXy0Tx00pX5I
+#EXTINF:-1,GABON
+https://cdn.imnet.online/bcdn_token=HS256-1-k3T5crWH9zH2h9aXQd0QZkoYu14HP_EFIAJX2qkGGqU&token_ignore_params=true&token_path=%2Fapi%2Fchannel-hls%2Fgabon_1ere-54e2d65d%2F&expires=1795451400/api/channel-hls/gabon_1ere-54e2d65d/index.m3u8?impt=eyJ2IjoxLCJzaWQiOiI1NGUyZDY1ZC03NTBmLTRjMDYtODYzYi1hZGI5OGY1ZTI1MmQiLCJyb3V0ZSI6ImdhYm9uXzFlcmUtNTRlMmQ2NWQiLCJleHAiOjE3OTU0NTE0MDAwMDAsImZwIjoiMjQxYmE3NTM2YTk5NDAzNmI0OTk4NGVmMWVmYTBjZWZjYjU0OGIwNDc2YzI0MmY5MThjMjE2ZTFmMTNkZWIzMSIsImZwdiI6ImlwIiwic2NvcGUiOiJzdHJlYW0ifQ.8y6y-gYK8fkxgnMhlyE9pFmkLJD3xJKvnZ7MntYA6pw
 
 #EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-logo="https://i.imgur.com/oXuSkHz.png" group-title="French",RTVC (720p)
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8

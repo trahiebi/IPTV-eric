@@ -17,8 +17,8 @@ https://tv.voozmedia.fun/benietv/index.m3u8
 #EXTINF:-1,RTG
 https://stream-hls.castr.net/6a294b5dedb8abc716a2ebf8/live_dc803c707b1411f18638734c8e2b001b/index.fmp4.m3u8
 
-#EXTINF:-1,GABON
-
+#EXTINF:-1,LOLLYWOOD
+https://helga.iptv2022.com/Lollywoodpremiere/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-logo="https://i.imgur.com/0N64Ddn.png" group-title="Undefined",TV5Monde Africa (720p)
 http://5.9.121.178/tv5monde/index.m3u8

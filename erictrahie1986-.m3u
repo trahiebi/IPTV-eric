@@ -69,9 +69,6 @@ https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 tvg-id="SavaneTV.bf@SD" tvg-logo="https://i.imgur.com/mv3S1Zc.png" group-title="General",Savane TV
 https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 
-#EXTINF:-1,GABON1
-https://cdn.imnet.online/bcdn_token=HS256-1-PkJaovdjKxBV-GlI8BXJPN0jB6SaQHeru1Ym6xcn9Eo&token_ignore_params=true&token_path=%2Fapi%2Fchannel-hls%2Fgabon_1ere-54e2d65d%2F&expires=1795452300/api/channel-hls/gabon_1ere-54e2d65d/index.m3u8?impt=eyJ2IjoxLCJzaWQiOiI1NGUyZDY1ZC03NTBmLTRjMDYtODYzYi1hZGI5OGY1ZTI1MmQiLCJyb3V0ZSI6ImdhYm9uXzFlcmUtNTRlMmQ2NWQiLCJleHAiOjE3OTU0NTIzMDAwMDAsImZwIjoiMjQxYmE3NTM2YTk5NDAzNmI0OTk4NGVmMWVmYTBjZWZjYjU0OGIwNDc2YzI0MmY5MThjMjE2ZTFmMTNkZWIzMSIsImZwdiI6ImlwIiwic2NvcGUiOiJzdHJlYW0ifQ.IUTx-tkNYxZ5WKupVWo7BVcdMj5W7aGRYWOwhwZtU98
-
 #EXTINF:-1 tvg-id="KalacTV.gn@SD" tvg-logo="https://i.imgur.com/FgKJiHZ.png" group-title="General",Kalac TV (1080p)
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
 

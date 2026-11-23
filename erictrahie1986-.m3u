@@ -57,8 +57,8 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
-#EXTINF:-1,RTG(GUINEE)
-https://stream-hls.castr.net/6a294b5dedb8abc716a2ebf8/live_dc803c707b1411f18638734c8e2b001b/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1,RTG
+https://stream-hls.castr.net/6a294b5dedb8abc716a2ebf8/live_60308c007b1511f1b67eb9fef82d5ea3/index.fmp4.m3u
 
 #EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-logo="https://i.imgur.com/oXuSkHz.png" group-title="French",RTVC (720p)
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8

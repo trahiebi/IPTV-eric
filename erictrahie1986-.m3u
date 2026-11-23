@@ -14,8 +14,8 @@ https://tvradiozap.eu/1112
 #EXTINF:-1 tvg-id="BenieTV.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="French",Benie TV (720p)
 https://tv.voozmedia.fun/benietv/index.m3u8
 
-#EXTINF:-1,LMTV
-https://stream.castr.com/5c0e464dc140f155a330edb5/live_9f9b1560ea3211ef9413c99e9bca976f/index.fmp4.m3u8
+#EXTINF:-1,RTG
+https://stream-hls.castr.net/6a294b5dedb8abc716a2ebf8/live_dc803c707b1411f18638734c8e2b001b/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-logo="https://i.imgur.com/0N64Ddn.png" group-title="Undefined",TV5Monde Africa (720p)
 http://5.9.121.178/tv5monde/index.m3u8

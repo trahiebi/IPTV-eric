@@ -57,8 +57,8 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
-#EXTINF:-1,RTG
-https://stream-hls.castr.net/6a294b5dedb8abc716a2ebf8/live_dc803c707b1411f18638734c8e2b001b/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1,GABON1
+https://cdn.imnet.online/bcdn_token=HS256-1-axv5Tjmf2O1rotO6CktOibwIgQtQtewDH4wSNDJJl_U&token_ignore_params=true&token_path=%2Fapi%2Fchannel-hls%2Fgabon_1ere-54e2d65d%2F&expires=1795450800/api/channel-hls/gabon_1ere-54e2d65d/index.m3u8?impt=eyJ2IjoxLCJzaWQiOiI1NGUyZDY1ZC03NTBmLTRjMDYtODYzYi1hZGI5OGY1ZTI1MmQiLCJyb3V0ZSI6ImdhYm9uXzFlcmUtNTRlMmQ2NWQiLCJleHAiOjE3OTU0NTA4MDAwMDAsImZwIjoiMjQxYmE3NTM2YTk5NDAzNmI0OTk4NGVmMWVmYTBjZWZjYjU0OGIwNDc2YzI0MmY5MThjMjE2ZTFmMTNkZWIzMSIsImZwdiI6ImlwIiwic2NvcGUiOiJzdHJlYW0ifQ.QHFsfw-EnMq_DVhR0wlfUMaYTYAPMY6X3SSkxXuY1B0
 
 #EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-logo="https://i.imgur.com/oXuSkHz.png" group-title="French",RTVC (720p)
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8

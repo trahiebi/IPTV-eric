@@ -58,7 +58,7 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
 #EXTINF:-1,GABON
-https://cdn.imnet.online/bcdn_token=HS256-1-k3T5crWH9zH2h9aXQd0QZkoYu14HP_EFIAJX2qkGGqU&token_ignore_params=true&token_path=%2Fapi%2Fchannel-hls%2Fgabon_1ere-54e2d65d%2F&expires=1795451400/api/channel-hls/gabon_1ere-54e2d65d/index.m3u8?impt=eyJ2IjoxLCJzaWQiOiI1NGUyZDY1ZC03NTBmLTRjMDYtODYzYi1hZGI5OGY1ZTI1MmQiLCJyb3V0ZSI6ImdhYm9uXzFlcmUtNTRlMmQ2NWQiLCJleHAiOjE3OTU0NTE0MDAwMDAsImZwIjoiMjQxYmE3NTM2YTk5NDAzNmI0OTk4NGVmMWVmYTBjZWZjYjU0OGIwNDc2YzI0MmY5MThjMjE2ZTFmMTNkZWIzMSIsImZwdiI6ImlwIiwic2NvcGUiOiJzdHJlYW0ifQ.8y6y-gYK8fkxgnMhlyE9pFmkLJD3xJKvnZ7MntYA6pw
+https://cdn.imnet.online/bcdn_token=HS256-1-wrlxAqgzpZeiAlp7vEZA9ul1348NmnLtiBR2fIX1BGQ&token_ignore_params=true&token_path=%2Fapi%2Fchannel-hls%2Fgabon_1ere-54e2d65d%2F&expires=1795452000/api/channel-hls/gabon_1ere-54e2d65d/index.m3u8?impt=eyJ2IjoxLCJzaWQiOiI1NGUyZDY1ZC03NTBmLTRjMDYtODYzYi1hZGI5OGY1ZTI1MmQiLCJyb3V0ZSI6ImdhYm9uXzFlcmUtNTRlMmQ2NWQiLCJleHAiOjE3OTU0NTIwMDAwMDAsImZwIjoiMjQxYmE3NTM2YTk5NDAzNmI0OTk4NGVmMWVmYTBjZWZjYjU0OGIwNDc2YzI0MmY5MThjMjE2ZTFmMTNkZWIzMSIsImZwdiI6ImlwIiwic2NvcGUiOiJzdHJlYW0ifQ.Aqh0Yp5ru0pNxq0RcKREbsrU1tBfVTKoudjphFX8dJ8
 
 #EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-logo="https://i.imgur.com/oXuSkHz.png" group-title="French",RTVC (720p)
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8

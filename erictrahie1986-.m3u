@@ -197,6 +197,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="zenith.fr@HD" tvg-logo="https://znth.tv/images/logo.png" group-title="Culture",zenith (1080p)
 https://live.azenagroup.com/zenith/index.ll.m3u8
 
+#EXTINF:-1 tvg-id="MTVCLASSICS.de@FR" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Entertainment",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFM TV (1080p)
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
 

@@ -17,8 +17,8 @@ https://tv.voozmedia.fun/benietv/index.m3u8
 #EXTINF:-1,RTG
 https://stream-hls.castr.net/6a294b5dedb8abc716a2ebf8/live_dc803c707b1411f18638734c8e2b001b/index.fmp4.m3u8
 
-#EXTINF:-1,LOUGA
-https://uae.iptv2022.com/sh/Louga_Tv/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4
+#EXTINF:-1 tvg-id="CanalPlus.fr@SD" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment",Canal+
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de
 
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-logo="https://i.imgur.com/0N64Ddn.png" group-title="Undefined",TV5Monde Africa (720p)
 http://5.9.121.178/tv5monde/index.m3u8

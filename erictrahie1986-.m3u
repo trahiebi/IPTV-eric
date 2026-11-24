@@ -348,9 +348,6 @@ https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="News",CGTN French (1080p)
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Olelo55.us@SD" tvg-logo="https://i.imgur.com/0qe2R8b.png" group-title="Entertainment",Olelo 55 (720p)
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LaUne.be@SD" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Entertainment",La Une (1080p)
 http://41.205.93.154/LA-UNE/index.m3u8
 

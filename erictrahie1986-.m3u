@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="RTI1.ci" tvg-name="RTI 1 (CI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_RTI_1.svg/330px-Logo_RTI_1.svg.png" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",RTI 1 (CI)
 https://tvradiozap.eu/949
@@ -894,3 +895,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Sports",Win+ Futbol (1080p)
+http://181.78.12.119:16123/play/ch19/index.m3u8
+
+
